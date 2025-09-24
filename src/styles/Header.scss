@@ -1,0 +1,25 @@
+.header {
+  background: url("../../public/background-header.jpg") center/cover no-repeat;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+
+  h1 {
+    font-size: 4em;
+    margin: 0;
+    text-shadow: 2px 2px 8px #000;
+  }
+
+  p {
+    font-size: 1.5em;
+    text-shadow: 1px 1px 5px #000;
+  }
+  .logo {
+    width: 100vw;
+    margin-top: 10vh;
+  }
+}
