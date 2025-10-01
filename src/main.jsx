@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./app.jsx";
-import "./styles/_variables.scss"; // Si querés importar estilos globales
+import "./styles/_variables.scss";
+import "../index.scss";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>

@@ -1,5 +1,12 @@
 // importar desde src/styles/_variables.scss
-@import "./src/styles/variables";
+@import "./src/styles/_variables.scss";
+@import "./src/styles/Contact.scss";
+@import "./src/styles/Events.scss";
+@import "./src/styles/Footer.scss";
+@import "./src/styles/Gallery.scss";
+@import "./src/styles/Header.scss";
+@import "./src/styles/Music.scss";
+@import "./src/styles/Nav.scss";
 
 html {
   scroll-behavior: smooth;
