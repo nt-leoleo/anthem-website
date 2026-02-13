@@ -5,7 +5,7 @@ import Events from "./components/Events.jsx";
 import Gallery from "./components/Gallery.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
-import Fechas from "./pages/shows";
+import Fechas from "./pages/Shows.jsx";
 import "./styles/_variables.scss";
 
 import { Routes, Route } from "react-router-dom";
