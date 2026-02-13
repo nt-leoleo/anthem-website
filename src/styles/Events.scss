@@ -1,0 +1,15 @@
+.events {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-shadow: 0.3em 0.3em 0.5em black;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    li {
+      padding: 10px 0;
+      border-bottom: 1px solid #333;
+    }
+  }
+}
